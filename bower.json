@@ -1,7 +1,7 @@
 {
-  "name": "material-design-icons",
+  "name": "material-design-iconfont",
   "author": "Material Design Authors",
-  "description": "Material Design icons by Google",
+  "description": "Material Design iconfont by Google (a fork)",
   "keywords": [
     "icons",
     "material",
