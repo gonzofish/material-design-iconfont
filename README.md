@@ -6,3 +6,5 @@ so that it can be incorporated into projects more easily.
 ## Updates
 
 I make no guarantees about staying in sync with Google's updates to the font, but I'll do my best. I may not be the hero you deserve.
+
+- *Nov 24* Updated  to 2.1.1
