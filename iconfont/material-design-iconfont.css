@@ -7,6 +7,7 @@
 
 .material-icons {
   font-family: 'Material Icons';
+  font-feature-settings: 'liga';
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
